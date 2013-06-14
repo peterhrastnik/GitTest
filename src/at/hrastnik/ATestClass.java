@@ -10,6 +10,7 @@ public class ATestClass {
         // TODO Auto-generated method stub
         System.out.println("STARTING NEW ...");
         System.out.println("MASTER ...");
+        System.out.println("FIRST_BRANCH ...");
 
     }
 
